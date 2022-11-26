@@ -94,7 +94,7 @@ const Topbar = ({ bgColor }) => {
               <Image
                 display="block"
                 height="28px"
-                src="/assets/images/logo.png"
+                src="/assets/images/logo.svg"
                 alt="logo"
               />
             </Link>
