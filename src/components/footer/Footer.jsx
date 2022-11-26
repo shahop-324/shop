@@ -101,13 +101,13 @@ const Footer = () => {
                   Contact Us
                 </Box>
                 <Box py={0.6} color="grey.500">
-                  70 Washington Square South, New York, NY 10012, United States
+                  EE 738 DEEN DAYAL NAGAR GWALIOR, MP 474020
                 </Box>
                 <Box py={0.6} color="grey.500">
-                  Email: uilib.help@gmail.com
+                  Email: support@qwikshop.com
                 </Box>
                 <Box py={0.6} mb={2} color="grey.500">
-                  Phone: +1 1123 456 780
+                  Phone: +91 6265 081 928
                 </Box>
 
                 <FlexBox className="flex" mx={-0.625}>
@@ -157,15 +157,15 @@ const customerCareLinks = [
 const iconList = [
   {
     icon: Facebook,
-    url: "https://www.facebook.com/UILibOfficial",
+    url: "/",
   },
   {
     icon: Twitter,
-    url: "https://twitter.com/uilibofficial",
+    url: "/",
   },
   {
     icon: Youtube,
-    url: "https://www.youtube.com/channel/UCsIyD-TSO1wQFz-n2Y4i3Rg",
+    url: "/",
   },
   {
     icon: Google,
