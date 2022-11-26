@@ -247,7 +247,7 @@ const categoriesMegaMenu = [
 
 ## Support
 
-Need Support? Create a ticket [HERE](https://support.ui-lib.com/help-center/tickets/new) Or Send us an email at [support@ui-lib.com](mailto:support@ui-lib.com).
+Need Support? Create a ticket [HERE](https://support.qwikshop.com/help-center/tickets/new) Or Send us an email at [support@qwikshop.com](mailto:support@qwikshop.com).
 
 ### changelog
 

@@ -114,7 +114,7 @@ const paymentMethods = [
     id: "1050017AS",
     exp: "N/A",
     payment_method: "PayPal",
-    card_no: "ui-lib@email.com",
+    card_no: "qwikshop@email.com",
   },
   {
     id: "1050017AS",

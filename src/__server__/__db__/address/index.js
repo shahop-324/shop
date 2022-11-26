@@ -1,7 +1,7 @@
 // FOLLOWING CODES ARE MOCK SERVER IMPLEMENTATION
 // YOU NEED TO BUILD YOUR OWN SERVER
 // IF YOU NEED HELP ABOUT SERVER SIDE IMPLEMENTATION
-// CONTACT US AT support@ui-lib.com
+// CONTACT US AT support@qwikshop.com
 import Mock from "../../mock";
 import { addressList } from "./data"; // get all users
 

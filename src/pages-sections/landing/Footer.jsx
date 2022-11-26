@@ -25,7 +25,7 @@ const Footer = () => {
               fontSize: "16px",
             }}
           />{" "}
-          & Care by &nbsp; <a href="https://ui-lib.com">UI Lib</a>
+          & Care by &nbsp; <a href="https://qwikshop.com">UI Lib</a>
         </FlexBox>
 
         <FlexBox className="flex">
